@@ -1,0 +1,15 @@
+{
+  "name": "genpark-agent-runtime-invariant-assertion-synthesizer-skill",
+  "version": "1.0.0",
+  "description": "Dynamically synthesizes and evaluates runtime assertions and state invariants to prevent data corruption.",
+  "author": "GenPark AI",
+  "license": "Apache-2.0",
+  "dependencies": [],
+  "keywords": [
+    "runtime-invariants",
+    "assertion-synthesizer",
+    "hoare-logic",
+    "daikon-invariants",
+    "contract-programming"
+  ]
+}
